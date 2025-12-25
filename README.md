@@ -1,4 +1,4 @@
-#**Student Performance Prediction using Machine Learning**
+**Student Performance Prediction using Machine Learning**
 
 Problem Statement
 Predict student academic performance based on study hours and attendance using Machine Learning techniques.
