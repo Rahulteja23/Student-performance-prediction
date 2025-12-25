@@ -1,0 +1,2 @@
+# Student-performance-prediction
+Machine learning project to predict student performance using linear regression.
