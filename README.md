@@ -20,6 +20,10 @@ The dataset contains the following features:
 -> Pandas
 -> scikit-learn
 
+## Visualization
+- Actual vs Predicted Marks plot to evaluate model performance
+- Study Hours vs Marks plot to understand feature relationships
+
 ## Results
 The model was able to predict student marks with reasonable accuracy on a small dataset, demonstrating the effectiveness of basic regression techniques.
 
